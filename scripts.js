@@ -19,14 +19,14 @@ $(document).ready(function(){
     })
     // Typing Titles 
     var typed = new Typed(".typing",{
-        strings : ["Web Designer","Web Developer","Digital Marketer"],
+        strings : ["Full Stack Web Developer","JavaScript Developer","React JS Developer"],
         typeSpeed : 100,
         backSpeed : 60,
         loop : true
     })
     // Typing Titles 
     var typed = new Typed(".typing2",{
-        strings : ["Web Designer","Web Developer","Digital Marketer"],
+        strings : ["Full Stack Web Developer","JavaScript Developer","React JS Developer"],
         typeSpeed : 100,
         backSpeed : 60,
         loop : true
